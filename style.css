@@ -1,0 +1,55 @@
+table, th, td {
+    border: 10px solid black;
+  }
+  #caption {
+      font-size: 30px;
+      font-family: fantasy;
+  }
+  #total {
+      background-color: aqua;
+      text-align: center;
+  }
+  #hourly {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #hourly-amount {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #parts{
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #rental {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #permit {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #contractor {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #other {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #finance {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #commission {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #payroll {
+      background-color: aquamarine;
+      text-align: center;
+  }
+  #margin {
+      background-color: lightcoral;
+      text-align: center;
+  }
